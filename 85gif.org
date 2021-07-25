@@ -1,0 +1,5 @@
+{
+  "name": "Memecalf#85",
+  "description": "Memecalf#85",
+  "image_url": "https://github.com/memecalf/data/blob/main/85.gif?raw=true"
+}

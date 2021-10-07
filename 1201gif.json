@@ -1,5 +1,11 @@
 {
   "name": "Memecalf#1201",
   "description": "Memecalf#1201",
-  "image_url": "https://github.com/memecalf/data/blob/main/1201.gif?raw=true"
+  "image_url": "https://github.com/memecalf/data/blob/main/1201.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Mutant", 
+      "value": "Mutant v1"
+    }
+  ]
 }

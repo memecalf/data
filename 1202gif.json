@@ -1,5 +1,15 @@
 {
   "name": "Memecalf#1202",
   "description": "Memecalf#1202",
-  "image_url": "https://github.com/memecalf/data/blob/main/1202.gif?raw=true"
+  "image_url": "https://github.com/memecalf/data/blob/main/1202.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Beijing"
+    }, 
+    {
+      "trait_type": "Mutant", 
+      "value": "mutant"
+    }
+  ]
 }

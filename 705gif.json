@@ -5,11 +5,7 @@
   "attributes": [
     {
       "trait_type": "City", 
-      "value": "Beijing"
-    }, 
-    {
-      "trait_type": "Mutant", 
-      "value": "mutant"
+      "value": "Top100"
     }
   ]
 }

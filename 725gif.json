@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#725",
-  "description": "Memecalf#725",
-  "image_url": "https://github.com/memecalf/data/blob/main/725.gif?raw=true"
+  "name": "Memecalf#725 Berlin",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/725.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

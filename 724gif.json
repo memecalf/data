@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#724",
-  "description": "Memecalf#724",
-  "image_url": "https://github.com/memecalf/data/blob/main/724.gif?raw=true"
+  "name": "Memecalf#701 Toronto",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/701.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

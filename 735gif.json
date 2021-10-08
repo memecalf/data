@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#735",
-  "description": "Memecalf#735",
-  "image_url": "https://github.com/memecalf/data/blob/main/735.gif?raw=true"
+  "name": "Memecalf#735 San Francisco",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/735.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

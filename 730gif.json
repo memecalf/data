@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#730",
-  "description": "Memecalf#730",
-  "image_url": "https://github.com/memecalf/data/blob/main/730.gif?raw=true"
+  "name": "Memecalf#730 Hong Kong",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/730.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

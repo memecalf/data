@@ -1,5 +1,11 @@
 {
   "name": "Memecalf#709",
   "description": "Memecalf#709",
-  "image_url": "https://github.com/memecalf/data/blob/main/709.gif?raw=true"
+  "image_url": "https://github.com/memecalf/data/blob/main/709.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

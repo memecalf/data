@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#742",
-  "description": "Memecalf#742",
-  "image_url": "https://github.com/memecalf/data/blob/main/742.gif?raw=true"
+  "name": "Memecalf#742 Stockholm",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/742.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

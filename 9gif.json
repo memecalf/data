@@ -1,5 +1,11 @@
 {
   "name": "Memecalf#09",
   "description": "Memecalf#09",
-  "image_url": "https://github.com/memecalf/data/blob/main/9.gif?raw=true"
+  "image_url": "https://github.com/memecalf/data/blob/main/09.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "MEME", 
+      "value": "Happy"
+    }
+  ]
 }

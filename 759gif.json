@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#759",
-  "description": "Memecalf#759",
-  "image_url": "https://github.com/memecalf/data/blob/main/759.gif?raw=true"
+  "name": "Memecalf#759 Melbourne",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/759.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

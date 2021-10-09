@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#756",
-  "description": "Memecalf#756",
-  "image_url": "https://github.com/memecalf/data/blob/main/756.gif?raw=true"
+  "name": "Memecalf#756 Chicago",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/756.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

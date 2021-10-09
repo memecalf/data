@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#752",
-  "description": "Memecalf#752",
-  "image_url": "https://github.com/memecalf/data/blob/main/752.gif?raw=true"
+  "name": "Memecalf#752 Amsterdam",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/752.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
   "name": "Memecalf#07",
   "description": "Memecalf#07",
-  "image_url": "https://github.com/memecalf/data/blob/main/7.gif?raw=true"
+  "image_url": "https://github.com/memecalf/data/blob/main/07.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "MEME", 
+      "value": "Sad"
+    }
+  ]
 }

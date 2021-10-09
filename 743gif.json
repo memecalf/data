@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#743",
-  "description": "Memecalf#743",
-  "image_url": "https://github.com/memecalf/data/blob/main/743.gif?raw=true"
+  "name": "Memecalf#743 Vienna",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/743.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

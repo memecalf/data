@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#751",
-  "description": "Memecalf#751",
-  "image_url": "https://github.com/memecalf/data/blob/main/751.gif?raw=true"
+  "name": "Memecalf#751 Seoul",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/751.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

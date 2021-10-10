@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#795",
-  "description": "Memecalf#795",
-  "image_url": "https://github.com/memecalf/data/blob/main/795.gif?raw=true"
+  "name": "Memecalf#795 Warsaw",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/795.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

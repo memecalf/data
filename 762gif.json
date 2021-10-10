@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#762",
-  "description": "Memecalf#762",
-  "image_url": "https://github.com/memecalf/data/blob/main/762.gif?raw=true"
+  "name": "Memecalf#762 Moscow",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/762.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

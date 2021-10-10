@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#772",
-  "description": "Memecalf#772",
-  "image_url": "https://github.com/memecalf/data/blob/main/772.gif?raw=true"
+  "name": "Memecalf#772 Frankfurt",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/772.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

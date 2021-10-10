@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#780",
-  "description": "Memecalf#780",
-  "image_url": "https://github.com/memecalf/data/blob/main/780.gif?raw=true"
+  "name": "Memecalf#780 Copenhagen",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/780.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

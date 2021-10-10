@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#775",
-  "description": "Memecalf#775",
-  "image_url": "https://github.com/memecalf/data/blob/main/775.gif?raw=true"
+  "name": "Memecalf#775 Buenos Aires",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/775.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#799",
-  "description": "Memecalf#799",
-  "image_url": "https://github.com/memecalf/data/blob/main/799.gif?raw=true"
+  "name": "Memecalf#799 Munich",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/799.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

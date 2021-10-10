@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#789",
-  "description": "Memecalf#789",
-  "image_url": "https://github.com/memecalf/data/blob/main/789.gif?raw=true"
+  "name": "Memecalf#789 Mexico City",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/789.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

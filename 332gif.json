@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#332",
-  "description": "Memecalf#332",
-  "image_url": "https://github.com/memecalf/data/blob/main/332.gif?raw=true"
+  "name": "Memecalf#332 Colosseum",
+  "description": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+  "image_url": "https://github.com/memecalf/data/blob/main/332.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

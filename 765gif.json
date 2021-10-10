@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#765",
-  "description": "Memecalf#765",
-  "image_url": "https://github.com/memecalf/data/blob/main/765.gif?raw=true"
+  "name": "Memecalf#765 Washington D.C.",
+  "description": "Global 500 cities series",
+  "image_url": "https://github.com/memecalf/data/blob/main/765.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "City", 
+      "value": "Top 100"
+    }
+  ]
 }

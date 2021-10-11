@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#343",
-  "description": "Memecalf#343",
-  "image_url": "https://github.com/memecalf/data/blob/main/343.gif?raw=true"
+  "name": "Memecalf#343 Crespi d'Adda",
+  "description": "Crespi d'Adda",
+  "image_url": "https://github.com/memecalf/data/blob/main/343.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

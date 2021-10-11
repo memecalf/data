@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#338",
-  "description": "Memecalf#338",
-  "image_url": "https://github.com/memecalf/data/blob/main/338.gif?raw=true"
+  "name": "Memecalf#338 Venice and its Lagoon",
+  "description": "Venice and its Lagoon",
+  "image_url": "https://github.com/memecalf/data/blob/main/338.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

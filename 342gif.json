@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#342",
-  "description": "Memecalf#342",
-  "image_url": "https://github.com/memecalf/data/blob/main/342.gif?raw=true"
+  "name": "Memecalf#342 City of Vicenza and the Palladian Villas of the Veneto",
+  "description": "City of Vicenza and the Palladian Villas of the Veneto",
+  "image_url": "https://github.com/memecalf/data/blob/main/342.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#341",
-  "description": "Memecalf#341",
-  "image_url": "https://github.com/memecalf/data/blob/main/341.gif?raw=true"
+  "name": "Memecalf#341 The Sassi and the Park of the Rupestrian Churches ofMatera",
+  "description": "The Sassi and the Park of the Rupestrian Churches ofMatera",
+  "image_url": "https://github.com/memecalf/data/blob/main/341.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#339",
-  "description": "Memecalf#339",
-  "image_url": "https://github.com/memecalf/data/blob/main/339.gif?raw=true"
+  "name": "Memecalf#339 Piazza del Duomo, Pisa",
+  "description": "Piazza del Duomo, Pisa",
+  "image_url": "https://github.com/memecalf/data/blob/main/339.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#340",
-  "description": "Memecalf#340",
-  "image_url": "https://github.com/memecalf/data/blob/main/340.gif?raw=true"
+  "name": "Memecalf#340 Historic Centre of San Gimignano",
+  "description": "Historic Centre of San Gimignano",
+  "image_url": "https://github.com/memecalf/data/blob/main/340.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

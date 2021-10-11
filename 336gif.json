@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#336",
-  "description": "Memecalf#336",
-  "image_url": "https://github.com/memecalf/data/blob/main/336.gif?raw=true"
+  "name": "Memecalf#336 Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+  "description": "Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci",
+  "image_url": "https://github.com/memecalf/data/blob/main/336.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

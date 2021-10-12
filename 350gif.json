@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#350",
-  "description": "Memecalf#350",
-  "image_url": "https://github.com/memecalf/data/blob/main/350.gif?raw=true"
+  "name": "Memecalf#350 The Trulli of Alberobello",
+  "description": "The Trulli of Alberobello",
+  "image_url": "https://github.com/memecalf/data/blob/main/350.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

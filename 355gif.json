@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#355",
-  "description": "Memecalf#355",
-  "image_url": "https://github.com/memecalf/data/blob/main/355.gif?raw=true"
+  "name": "Memecalf#355 Cathedral, Torre Civica and Piazza Grande, Modena",
+  "description": "Cathedral, Torre Civica and Piazza Grande, Modena",
+  "image_url": "https://github.com/memecalf/data/blob/main/355.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

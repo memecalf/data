@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#348",
-  "description": "Memecalf#348",
-  "image_url": "https://github.com/memecalf/data/blob/main/348.gif?raw=true"
+  "name": "Memecalf#348 Early Christian Monuments of Ravenna",
+  "description": "Early Christian Monuments of Ravenna",
+  "image_url": "https://github.com/memecalf/data/blob/main/348.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

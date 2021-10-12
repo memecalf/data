@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#352",
-  "description": "Memecalf#352",
-  "image_url": "https://github.com/memecalf/data/blob/main/352.gif?raw=true"
+  "name": "Memecalf#352 Archaeological Area of Agrigento",
+  "description": "Archaeological Area of Agrigento",
+  "image_url": "https://github.com/memecalf/data/blob/main/352.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

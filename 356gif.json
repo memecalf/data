@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#356",
-  "description": "Memecalf#356",
-  "image_url": "https://github.com/memecalf/data/blob/main/356.gif?raw=true"
+  "name": "Memecalf#356 Costiera Amalfitana",
+  "description": "Costiera Amalfitana",
+  "image_url": "https://github.com/memecalf/data/blob/main/356.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

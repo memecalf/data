@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#347",
-  "description": "Memecalf#347",
-  "image_url": "https://github.com/memecalf/data/blob/main/347.gif?raw=true"
+  "name": "Memecalf#347 Castel del Monte",
+  "description": "Castel del Monte",
+  "image_url": "https://github.com/memecalf/data/blob/main/347.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

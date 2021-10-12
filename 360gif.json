@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#360",
-  "description": "Memecalf#360",
-  "image_url": "https://github.com/memecalf/data/blob/main/360.gif?raw=true"
+  "name": "Memecalf#360 Villa Romana del Casale",
+  "description": "Villa Romana del Casale",
+  "image_url": "https://github.com/memecalf/data/blob/main/360.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

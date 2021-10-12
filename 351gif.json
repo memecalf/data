@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#351",
-  "description": "Memecalf#351",
-  "image_url": "https://github.com/memecalf/data/blob/main/351.gif?raw=true"
+  "name": "Memecalf#351 18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+  "description": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+  "image_url": "https://github.com/memecalf/data/blob/main/351.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

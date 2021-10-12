@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#346",
-  "description": "Memecalf#346",
-  "image_url": "https://github.com/memecalf/data/blob/main/346.gif?raw=true"
+  "name": "Memecalf#346 Historic Centre of Siena",
+  "description": "Historic Centre of Siena",
+  "image_url": "https://github.com/memecalf/data/blob/main/346.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

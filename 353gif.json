@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#353",
-  "description": "Memecalf#353",
-  "image_url": "https://github.com/memecalf/data/blob/main/353.gif?raw=true"
+  "name": "Memecalf#353 Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+  "description": "Archaeological Areas of Pompei, Herculaneum and Torre Annunziata",
+  "image_url": "https://github.com/memecalf/data/blob/main/353.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

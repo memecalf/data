@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#354",
-  "description": "Memecalf#354",
-  "image_url": "https://github.com/memecalf/data/blob/main/354.gif?raw=true"
+  "name": "Memecalf#354 Botanical Garden (Orto Botanico), Padua",
+  "description": "Botanical Garden (Orto Botanico), Padua",
+  "image_url": "https://github.com/memecalf/data/blob/main/354.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

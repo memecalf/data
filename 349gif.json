@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#349",
-  "description": "Memecalf#349",
-  "image_url": "https://github.com/memecalf/data/blob/main/349.gif?raw=true"
+  "name": "Memecalf#349 Historic Centre of Pienza",
+  "description": "Historic Centre of Pienza",
+  "image_url": "https://github.com/memecalf/data/blob/main/349.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

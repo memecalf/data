@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#345",
-  "description": "Memecalf#345",
-  "image_url": "https://github.com/memecalf/data/blob/main/345.gif?raw=true"
+  "name": "Memecalf#345 Historic Centre of Naples",
+  "description": "Historic Centre of Naples",
+  "image_url": "https://github.com/memecalf/data/blob/main/345.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

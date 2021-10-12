@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#358",
-  "description": "Memecalf#358",
-  "image_url": "https://github.com/memecalf/data/blob/main/358.gif?raw=true"
+  "name": "Memecalf#358 Residences of the Royal House of Savoy",
+  "description": "Residences of the Royal House of Savoy",
+  "image_url": "https://github.com/memecalf/data/blob/main/358.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

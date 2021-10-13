@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#375",
-  "description": "Memecalf#375",
-  "image_url": "https://github.com/memecalf/data/blob/main/375.gif?raw=true"
+  "name": "Memecalf#375 Prehistoric Pile dwellings around the Alps",
+  "description": "Prehistoric Pile dwellings around the Alps",
+  "image_url": "https://github.com/memecalf/data/blob/main/375.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

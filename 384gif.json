@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#384",
-  "description": "Memecalf#384",
-  "image_url": "https://github.com/memecalf/data/blob/main/384.gif?raw=true"
+  "name": "Memecalf#384 Rhaetian Railway in the Albula / Bernina Landscapes",
+  "description": "Rhaetian Railway in the Albula / Bernina Landscapes",
+  "image_url": "https://github.com/memecalf/data/blob/main/384.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

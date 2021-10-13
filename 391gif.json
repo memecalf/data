@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#391",
-  "description": "Memecalf#391",
-  "image_url": "https://github.com/memecalf/data/blob/main/391.gif?raw=true"
+  "name": "Memecalf#391 Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+  "description": "Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+  "image_url": "https://github.com/memecalf/data/blob/main/391.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#433",
-  "description": "Memecalf#433",
-  "image_url": "https://github.com/memecalf/data/blob/main/433.gif?raw=true"
+  "name": "Memecalf#433 Mogao Caves",
+  "description": "Mogao Caves",
+  "image_url": "https://github.com/memecalf/data/blob/main/433.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

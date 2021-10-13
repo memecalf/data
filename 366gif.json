@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#366",
-  "description": "Memecalf#366",
-  "image_url": "https://github.com/memecalf/data/blob/main/366.gif?raw=true"
+  "name": "Memecalf#366 City of Verona",
+  "description": "City of Verona",
+  "image_url": "https://github.com/memecalf/data/blob/main/366.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

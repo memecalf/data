@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#436",
-  "description": "Memecalf#436",
-  "image_url": "https://github.com/memecalf/data/blob/main/436.gif?raw=true"
+  "name": "Memecalf#436 Mukden Palace",
+  "description": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+  "image_url": "https://github.com/memecalf/data/blob/main/436.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

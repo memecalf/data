@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#372",
-  "description": "Memecalf#372",
-  "image_url": "https://github.com/memecalf/data/blob/main/372.gif?raw=true"
+  "name": "Memecalf#372 Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli",
+  "description": "Genoa: Le Strade Nuove and the system of the Palazzi dei Rolli",
+  "image_url": "https://github.com/memecalf/data/blob/main/372.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

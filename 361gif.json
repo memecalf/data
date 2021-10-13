@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#361",
-  "description": "Memecalf#361",
-  "image_url": "https://github.com/memecalf/data/blob/main/361.gif?raw=true"
+  "name": "Memecalf#361 Archaeological Area and the Patriarchal Basilica of Aquileia",
+  "description": "Archaeological Area and the Patriarchal Basilica of Aquileia",
+  "image_url": "https://github.com/memecalf/data/blob/main/361.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

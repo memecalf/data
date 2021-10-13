@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#377",
-  "description": "Memecalf#377",
-  "image_url": "https://github.com/memecalf/data/blob/main/377.gif?raw=true"
+  "name": "Memecalf#377 Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale",
+  "description": "Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale",
+  "image_url": "https://github.com/memecalf/data/blob/main/377.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

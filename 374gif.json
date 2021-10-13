@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#374",
-  "description": "Memecalf#374",
-  "image_url": "https://github.com/memecalf/data/blob/main/374.gif?raw=true"
+  "name": "Memecalf#374 Longobards in Italy. Places of the Power (568-774 A.D.)",
+  "description": "Longobards in Italy. Places of the Power (568-774 A.D.)",
+  "image_url": "https://github.com/memecalf/data/blob/main/374.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

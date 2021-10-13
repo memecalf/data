@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#385",
-  "description": "Memecalf#385",
-  "image_url": "https://github.com/memecalf/data/blob/main/385.gif?raw=true"
+  "name": "Memecalf#385 Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
+  "description": "Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato",
+  "image_url": "https://github.com/memecalf/data/blob/main/385.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

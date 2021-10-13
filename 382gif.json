@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#382",
-  "description": "Memecalf#382",
-  "image_url": "https://github.com/memecalf/data/blob/main/382.gif?raw=true"
+  "name": "Memecalf#382 The Porticoes of Bologna",
+  "description": "The Porticoes of Bologna",
+  "image_url": "https://github.com/memecalf/data/blob/main/382.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

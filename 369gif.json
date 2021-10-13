@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#369",
-  "description": "Memecalf#369",
-  "image_url": "https://github.com/memecalf/data/blob/main/369.gif?raw=true"
+  "name": "Memecalf#369 Sacri Monti of Piedmont and Lombardy",
+  "description": "Sacri Monti of Piedmont and Lombardy",
+  "image_url": "https://github.com/memecalf/data/blob/main/369.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

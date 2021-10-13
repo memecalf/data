@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#373",
-  "description": "Memecalf#373",
-  "image_url": "https://github.com/memecalf/data/blob/main/373.gif?raw=true"
+  "name": "Memecalf#373 Mantua and Sabbioneta",
+  "description": "Mantua and Sabbioneta",
+  "image_url": "https://github.com/memecalf/data/blob/main/373.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

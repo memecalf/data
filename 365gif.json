@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#365",
-  "description": "Memecalf#365",
-  "image_url": "https://github.com/memecalf/data/blob/main/365.gif?raw=true"
+  "name": "Memecalf#365 Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+  "description": "Assisi, the Basilica of San Francesco and Other Franciscan Sites",
+  "image_url": "https://github.com/memecalf/data/blob/main/365.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

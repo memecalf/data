@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#381",
-  "description": "Memecalf#381",
-  "image_url": "https://github.com/memecalf/data/blob/main/381.gif?raw=true"
+  "name": "Memecalf#381 The Great Spa Towns of Europe",
+  "description": "The Great Spa Towns of Europe",
+  "image_url": "https://github.com/memecalf/data/blob/main/381.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

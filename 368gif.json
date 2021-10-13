@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#368",
-  "description": "Memecalf#368",
-  "image_url": "https://github.com/memecalf/data/blob/main/368.gif?raw=true"
+  "name": "Memecalf#368 Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+  "description": "Late Baroque Towns of the Val di Noto (South-Eastern Sicily)",
+  "image_url": "https://github.com/memecalf/data/blob/main/368.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

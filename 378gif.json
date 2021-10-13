@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#378",
-  "description": "Memecalf#378",
-  "image_url": "https://github.com/memecalf/data/blob/main/378.gif?raw=true"
+  "name": "Memecalf#378 Venetian Works of Defence between 15th and 17th centuries: Stato da Terra – western Stato da Mar",
+  "description": "Venetian Works of Defence between 15th and 17th centuries: Stato da Terra – western Stato da Mar",
+  "image_url": "https://github.com/memecalf/data/blob/main/378.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

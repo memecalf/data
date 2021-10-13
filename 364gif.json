@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#364",
-  "description": "Memecalf#364",
-  "image_url": "https://github.com/memecalf/data/blob/main/364.gif?raw=true"
+  "name": "Memecalf#364 Villa Adriana (Tivoli)",
+  "description": "Villa Adriana (Tivoli)",
+  "image_url": "https://github.com/memecalf/data/blob/main/364.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

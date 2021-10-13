@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#380",
-  "description": "Memecalf#380",
-  "image_url": "https://github.com/memecalf/data/blob/main/380.gif?raw=true"
+  "name": "Memecalf#380 Padua’s fourteenth-century fresco cycles",
+  "description": "Padua’s fourteenth-century fresco cycles",
+  "image_url": "https://github.com/memecalf/data/blob/main/380.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

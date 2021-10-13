@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#383",
-  "description": "Memecalf#383",
-  "image_url": "https://github.com/memecalf/data/blob/main/383.gif?raw=true"
+  "name": "Memecalf#383 Val d'Orcia",
+  "description": "Val d'Orcia",
+  "image_url": "https://github.com/memecalf/data/blob/main/383.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

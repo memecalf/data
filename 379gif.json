@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#379",
-  "description": "Memecalf#379",
-  "image_url": "https://github.com/memecalf/data/blob/main/379.gif?raw=true"
+  "name": "Memecalf#379 Ivrea, industrial city of the 20th century",
+  "description": "Ivrea, industrial city of the 20th century",
+  "image_url": "https://github.com/memecalf/data/blob/main/379.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

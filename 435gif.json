@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#435",
-  "description": "Memecalf#435",
-  "image_url": "https://github.com/memecalf/data/blob/main/435.gif?raw=true"
+  "name": "Memecalf#435 Hall of Supreme Harmony",
+  "description": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+  "image_url": "https://github.com/memecalf/data/blob/main/435.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#362",
-  "description": "Memecalf#362",
-  "image_url": "https://github.com/memecalf/data/blob/main/362.gif?raw=true"
+  "name": "Memecalf#362 Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+  "description": "Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula",
+  "image_url": "https://github.com/memecalf/data/blob/main/362.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

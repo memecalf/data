@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#434",
-  "description": "Memecalf#434",
-  "image_url": "https://github.com/memecalf/data/blob/main/434.gif?raw=true"
+  "name": "Memecalf#434 Imperial Palaces of the Ming and Qing Dynasties in Beijing",
+  "description": "Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+  "image_url": "https://github.com/memecalf/data/blob/main/434.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

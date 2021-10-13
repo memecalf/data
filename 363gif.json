@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#363",
-  "description": "Memecalf#363",
-  "image_url": "https://github.com/memecalf/data/blob/main/363.gif?raw=true"
+  "name": "Memecalf#363 Historic Centre of Urbino",
+  "description": "Historic Centre of Urbino",
+  "image_url": "https://github.com/memecalf/data/blob/main/363.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

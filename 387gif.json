@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#387",
-  "description": "Memecalf#387",
-  "image_url": "https://github.com/memecalf/data/blob/main/387.gif?raw=true"
+  "name": "Memecalf#387 Isole Eolie (Aeolian Islands)",
+  "description": "Isole Eolie (Aeolian Islands)",
+  "image_url": "https://github.com/memecalf/data/blob/main/387.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

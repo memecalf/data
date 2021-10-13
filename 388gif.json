@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#388",
-  "description": "Memecalf#388",
-  "image_url": "https://github.com/memecalf/data/blob/main/388.gif?raw=true"
+  "name": "Memecalf#388 Monte San Giorgio",
+  "description": "Monte San Giorgio",
+  "image_url": "https://github.com/memecalf/data/blob/main/388.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

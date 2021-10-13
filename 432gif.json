@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#432",
-  "description": "Memecalf#432",
-  "image_url": "https://github.com/memecalf/data/blob/main/432.gif?raw=true"
+  "name": "Memecalf#432 The Great Wall",
+  "description": "The Great Wall",
+  "image_url": "https://github.com/memecalf/data/blob/main/432.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "Italy"
+    }
+  ]
 }

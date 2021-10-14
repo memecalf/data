@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#448",
-  "description": "Memecalf#448",
-  "image_url": "https://github.com/memecalf/data/blob/main/448.gif?raw=true"
+  "name": "Memecalf#448 Temple of Heaven: an Imperial Sacrificial Altar in Beijing",
+  "description": "Temple of Heaven: an Imperial Sacrificial Altar in Beijing",
+  "image_url": "https://github.com/memecalf/data/blob/main/448.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

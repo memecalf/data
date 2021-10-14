@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#437",
-  "description": "Memecalf#437",
-  "image_url": "https://github.com/memecalf/data/blob/main/437.gif?raw=true"
+  "name": "Memecalf#437 Mausoleum of the First Qin Emperor",
+  "description": "Mausoleum of the First Qin Emperor",
+  "image_url": "https://github.com/memecalf/data/blob/main/437.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

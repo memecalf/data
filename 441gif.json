@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#441",
-  "description": "Memecalf#441",
-  "image_url": "https://github.com/memecalf/data/blob/main/441.gif?raw=true"
+  "name": "Memecalf#441 Mountain Resort and its Outlying Temples, Chengde",
+  "description": "Mountain Resort and its Outlying Temples, Chengde",
+  "image_url": "https://github.com/memecalf/data/blob/main/441.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#450",
-  "description": "Memecalf#450",
-  "image_url": "https://github.com/memecalf/data/blob/main/450.gif?raw=true"
+  "name": "Memecalf#450 Ancient Villages in Southern Anhui – Xidi and Hongcun",
+  "description": "Ancient Villages in Southern Anhui – Xidi and Hongcun",
+  "image_url": "https://github.com/memecalf/data/blob/main/450.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

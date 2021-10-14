@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#443",
-  "description": "Memecalf#443",
-  "image_url": "https://github.com/memecalf/data/blob/main/443.gif?raw=true"
+  "name": "Memecalf#443 Lushan National Park",
+  "description": "Lushan National Park",
+  "image_url": "https://github.com/memecalf/data/blob/main/443.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

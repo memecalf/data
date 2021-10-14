@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#449",
-  "description": "Memecalf#449",
-  "image_url": "https://github.com/memecalf/data/blob/main/449.gif?raw=true"
+  "name": "Memecalf#449 Dazu Rock Carvings",
+  "description": "Dazu Rock Carvings",
+  "image_url": "https://github.com/memecalf/data/blob/main/449.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

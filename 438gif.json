@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#438",
-  "description": "Memecalf#438",
-  "image_url": "https://github.com/memecalf/data/blob/main/438.gif?raw=true"
+  "name": "Memecalf#438 Peking Man Site at Zhoukoudian",
+  "description": "Peking Man Site at Zhoukoudian",
+  "image_url": "https://github.com/memecalf/data/blob/main/438.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#439",
-  "description": "Memecalf#439",
-  "image_url": "https://github.com/memecalf/data/blob/main/439.gif?raw=true"
+  "name": "Memecalf#439 Ancient Building Complex in the Wudang Mountains",
+  "description": "Ancient Building Complex in the Wudang Mountains",
+  "image_url": "https://github.com/memecalf/data/blob/main/439.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

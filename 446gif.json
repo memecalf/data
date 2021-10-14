@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#446",
-  "description": "Memecalf#446",
-  "image_url": "https://github.com/memecalf/data/blob/main/446.gif?raw=true"
+  "name": "Memecalf#446 Old Town of Lijiang",
+  "description": "Old Town of Lijiang",
+  "image_url": "https://github.com/memecalf/data/blob/main/446.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

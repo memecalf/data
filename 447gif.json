@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#447",
-  "description": "Memecalf#447",
-  "image_url": "https://github.com/memecalf/data/blob/main/447.gif?raw=true"
+  "name": "Memecalf#447 Summer Palace, an Imperial Garden in Beijing",
+  "description": "Summer Palace, an Imperial Garden in Beijing",
+  "image_url": "https://github.com/memecalf/data/blob/main/447.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

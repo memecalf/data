@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#444",
-  "description": "Memecalf#444",
-  "image_url": "https://github.com/memecalf/data/blob/main/444.gif?raw=true"
+  "name": "Memecalf#444 Ancient City of Ping Yao",
+  "description": "Ancient City of Ping Yao",
+  "image_url": "https://github.com/memecalf/data/blob/main/444.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#445",
-  "description": "Memecalf#445",
-  "image_url": "https://github.com/memecalf/data/blob/main/445.gif?raw=true"
+  "name": "Memecalf#445 Classical Gardens of Suzhou",
+  "description": "Classical Gardens of Suzhou",
+  "image_url": "https://github.com/memecalf/data/blob/main/445.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

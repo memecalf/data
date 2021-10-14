@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#442",
-  "description": "Memecalf#442",
-  "image_url": "https://github.com/memecalf/data/blob/main/442.gif?raw=true"
+  "name": "Memecalf#442 Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+  "description": "Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+  "image_url": "https://github.com/memecalf/data/blob/main/442.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

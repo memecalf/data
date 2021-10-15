@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#467",
-  "description": "Memecalf#467",
-  "image_url": "https://github.com/memecalf/data/blob/main/467.gif?raw=true"
+  "name": "Memecalf#467 Tusi Sites",
+  "description": "Tusi Sites",
+  "image_url": "https://github.com/memecalf/data/blob/main/467.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

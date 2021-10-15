@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#469",
-  "description": "Memecalf#469",
-  "image_url": "https://github.com/memecalf/data/blob/main/469.gif?raw=true"
+  "name": "Memecalf#469 Kulangsu, a Historic International Settlement",
+  "description": "Kulangsu, a Historic International Settlement",
+  "image_url": "https://github.com/memecalf/data/blob/main/469.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

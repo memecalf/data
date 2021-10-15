@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#468",
-  "description": "Memecalf#468",
-  "image_url": "https://github.com/memecalf/data/blob/main/468.gif?raw=true"
+  "name": "Memecalf#468 Zuojiang Huashan Rock Art Cultural Landscape",
+  "description": "Zuojiang Huashan Rock Art Cultural Landscape",
+  "image_url": "https://github.com/memecalf/data/blob/main/468.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

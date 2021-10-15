@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#461",
-  "description": "Memecalf#461",
-  "image_url": "https://github.com/memecalf/data/blob/main/461.gif?raw=true"
+  "name": "Memecalf#461 Historic Monuments of Dengfeng in “The Centre of Heaven and Earth” ",
+  "description": "Historic Monuments of Dengfeng in “The Centre of Heaven and Earth” ",
+  "image_url": "https://github.com/memecalf/data/blob/main/461.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#466",
-  "description": "Memecalf#466",
-  "image_url": "https://github.com/memecalf/data/blob/main/466.gif?raw=true"
+  "name": "Memecalf#466 Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+  "description": "Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+  "image_url": "https://github.com/memecalf/data/blob/main/466.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

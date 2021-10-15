@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#465",
-  "description": "Memecalf#465",
-  "image_url": "https://github.com/memecalf/data/blob/main/465.gif?raw=true"
+  "name": "Memecalf#465 The Grand Canal",
+  "description": "The Grand Canal",
+  "image_url": "https://github.com/memecalf/data/blob/main/465.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#462",
-  "description": "Memecalf#462",
-  "image_url": "https://github.com/memecalf/data/blob/main/462.gif?raw=true"
+  "name": "Memecalf#462 West Lake Cultural Landscape of Hangzhou ",
+  "description": "West Lake Cultural Landscape of Hangzhou ",
+  "image_url": "https://github.com/memecalf/data/blob/main/462.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#453",
-  "description": "Memecalf#453",
-  "image_url": "https://github.com/memecalf/data/blob/main/453.gif?raw=true"
+  "name": "Memecalf#453 Mount Qingcheng and the Dujiangyan Irrigation System",
+  "description": "Mount Qingcheng and the Dujiangyan Irrigation System",
+  "image_url": "https://github.com/memecalf/data/blob/main/453.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

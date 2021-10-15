@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#456",
-  "description": "Memecalf#456",
-  "image_url": "https://github.com/memecalf/data/blob/main/456.gif?raw=true"
+  "name": "Memecalf#456 Historic Centre of Macao",
+  "description": "Historic Centre of Macao",
+  "image_url": "https://github.com/memecalf/data/blob/main/456.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

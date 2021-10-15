@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#458",
-  "description": "Memecalf#458",
-  "image_url": "https://github.com/memecalf/data/blob/main/458.gif?raw=true"
+  "name": "Memecalf#458 Kaiping Diaolou and Villages",
+  "description": "Kaiping Diaolou and Villages",
+  "image_url": "https://github.com/memecalf/data/blob/main/458.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

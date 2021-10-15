@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#452",
-  "description": "Memecalf#452",
-  "image_url": "https://github.com/memecalf/data/blob/main/452.gif?raw=true"
+  "name": "Memecalf#452 Imperial Tombs of the Ming and Qing Dynasties",
+  "description": "Imperial Tombs of the Ming and Qing Dynasties",
+  "image_url": "https://github.com/memecalf/data/blob/main/452.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

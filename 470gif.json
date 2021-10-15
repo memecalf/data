@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#470",
-  "description": "Memecalf#470",
-  "image_url": "https://github.com/memecalf/data/blob/main/470.gif?raw=true"
+  "name": "Memecalf#470 Archaeological Ruins of Liangzhu City",
+  "description": "Archaeological Ruins of Liangzhu City",
+  "image_url": "https://github.com/memecalf/data/blob/main/470.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

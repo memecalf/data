@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#459",
-  "description": "Memecalf#459",
-  "image_url": "https://github.com/memecalf/data/blob/main/459.gif?raw=true"
+  "name": "Memecalf#459 Fujian Tulou",
+  "description": "Fujian Tulou",
+  "image_url": "https://github.com/memecalf/data/blob/main/459.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

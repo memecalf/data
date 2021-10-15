@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#457",
-  "description": "Memecalf#457",
-  "image_url": "https://github.com/memecalf/data/blob/main/457.gif?raw=true"
+  "name": "Memecalf#457 Yin Xu",
+  "description": "Yin Xu",
+  "image_url": "https://github.com/memecalf/data/blob/main/457.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

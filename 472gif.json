@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#472",
-  "description": "Memecalf#472",
-  "image_url": "https://github.com/memecalf/data/blob/main/472.gif?raw=true"
+  "name": "Memecalf#472 Quanzhou: Emporium of the World in Song-Yuan China",
+  "description": "Quanzhou: Emporium of the World in Song-Yuan China",
+  "image_url": "https://github.com/memecalf/data/blob/main/472.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

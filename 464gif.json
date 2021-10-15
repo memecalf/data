@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#464",
-  "description": "Memecalf#464",
-  "image_url": "https://github.com/memecalf/data/blob/main/464.gif?raw=true"
+  "name": "Memecalf#464 Cultural Landscape of Honghe Hani Rice Terraces",
+  "description": "Cultural Landscape of Honghe Hani Rice Terraces",
+  "image_url": "https://github.com/memecalf/data/blob/main/464.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

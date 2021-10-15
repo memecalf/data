@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#463",
-  "description": "Memecalf#463",
-  "image_url": "https://github.com/memecalf/data/blob/main/463.gif?raw=true"
+  "name": "Memecalf#463 Site of Xanadu",
+  "description": "Site of Xanadu",
+  "image_url": "https://github.com/memecalf/data/blob/main/463.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

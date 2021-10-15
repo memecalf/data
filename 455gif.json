@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#455",
-  "description": "Memecalf#455",
-  "image_url": "https://github.com/memecalf/data/blob/main/455.gif?raw=true"
+  "name": "Memecalf#455 Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+  "description": "Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+  "image_url": "https://github.com/memecalf/data/blob/main/455.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

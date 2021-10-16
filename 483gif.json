@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#483",
-  "description": "Memecalf#483",
-  "image_url": "https://github.com/memecalf/data/blob/main/483.gif?raw=true"
+  "name": "Memecalf#483 Hubei Shennongjia",
+  "description": "Hubei Shennongjia",
+  "image_url": "https://github.com/memecalf/data/blob/main/483.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

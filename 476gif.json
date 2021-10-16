@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#476",
-  "description": "Memecalf#476",
-  "image_url": "https://github.com/memecalf/data/blob/main/476.gif?raw=true"
+  "name": "Memecalf#476 Three Parallel Rivers of Yunnan Protected Areas",
+  "description": "Three Parallel Rivers of Yunnan Protected Areas",
+  "image_url": "https://github.com/memecalf/data/blob/main/476.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

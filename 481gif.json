@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#481",
-  "description": "Memecalf#481",
-  "image_url": "https://github.com/memecalf/data/blob/main/481.gif?raw=true"
+  "name": "Memecalf#481 Chengjiang Fossil Site",
+  "description": "Chengjiang Fossil Site",
+  "image_url": "https://github.com/memecalf/data/blob/main/481.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

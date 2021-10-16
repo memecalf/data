@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#489",
-  "description": "Memecalf#489",
-  "image_url": "https://github.com/memecalf/data/blob/main/489.gif?raw=true"
+  "name": "Memecalf#489 Mount Huangshan Ⅰ",
+  "description": "Mount Huangshan",
+  "image_url": "https://github.com/memecalf/data/blob/main/489.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

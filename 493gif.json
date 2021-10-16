@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#493",
-  "description": "Memecalf#493",
-  "image_url": "https://github.com/memecalf/data/blob/main/493.gif?raw=true"
+  "name": "Memecalf#493 Mount Wuyi Ⅰ",
+  "description": "Mount Wuyi",
+  "image_url": "https://github.com/memecalf/data/blob/main/493.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

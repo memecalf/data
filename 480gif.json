@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#480",
-  "description": "Memecalf#480",
-  "image_url": "https://github.com/memecalf/data/blob/main/480.gif?raw=true"
+  "name": "Memecalf#480 China Danxia",
+  "description": "China Danxia",
+  "image_url": "https://github.com/memecalf/data/blob/main/480.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

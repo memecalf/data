@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#484",
-  "description": "Memecalf#484",
-  "image_url": "https://github.com/memecalf/data/blob/main/484.gif?raw=true"
+  "name": "Memecalf#484 Qinghai Hoh Xil",
+  "description": "Qinghai Hoh Xil",
+  "image_url": "https://github.com/memecalf/data/blob/main/484.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

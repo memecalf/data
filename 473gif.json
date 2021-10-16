@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#473",
-  "description": "Memecalf#473",
-  "image_url": "https://github.com/memecalf/data/blob/main/473.gif?raw=true"
+  "name": "Memecalf#473 Huanglong Scenic and Historic Interest Area",
+  "description": "Huanglong Scenic and Historic Interest Area",
+  "image_url": "https://github.com/memecalf/data/blob/main/473.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

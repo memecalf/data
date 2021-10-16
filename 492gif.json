@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#492",
-  "description": "Memecalf#492",
-  "image_url": "https://github.com/memecalf/data/blob/main/492.gif?raw=true"
+  "name": "Memecalf#492 Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area Ⅱ",
+  "description": "Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+  "image_url": "https://github.com/memecalf/data/blob/main/492.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

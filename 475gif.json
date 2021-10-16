@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#475",
-  "description": "Memecalf#475",
-  "image_url": "https://github.com/memecalf/data/blob/main/475.gif?raw=true"
+  "name": "Memecalf#475 Wulingyuan Scenic and Historic Interest Area",
+  "description": "Wulingyuan Scenic and Historic Interest Area",
+  "image_url": "https://github.com/memecalf/data/blob/main/475.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

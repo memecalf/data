@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#482",
-  "description": "Memecalf#482",
-  "image_url": "https://github.com/memecalf/data/blob/main/482.gif?raw=true"
+  "name": "Memecalf#482 Xinjiang Tianshan",
+  "description": "Xinjiang Tianshan",
+  "image_url": "https://github.com/memecalf/data/blob/main/482.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

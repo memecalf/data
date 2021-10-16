@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#478",
-  "description": "Memecalf#478",
-  "image_url": "https://github.com/memecalf/data/blob/main/478.gif?raw=true"
+  "name": "Memecalf#478 South China Karst",
+  "description": "South China Karst",
+  "image_url": "https://github.com/memecalf/data/blob/main/478.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

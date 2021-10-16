@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#488",
-  "description": "Memecalf#488",
-  "image_url": "https://github.com/memecalf/data/blob/main/488.gif?raw=true"
+  "name": "Memecalf#488 Mount Taishan Ⅱ",
+  "description": "Mount Taishan",
+  "image_url": "https://github.com/memecalf/data/blob/main/488.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

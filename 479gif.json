@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#479",
-  "description": "Memecalf#479",
-  "image_url": "https://github.com/memecalf/data/blob/main/479.gif?raw=true"
+  "name": "Memecalf#479 Mount Sanqingshan National Park",
+  "description": "Mount Sanqingshan National Park",
+  "image_url": "https://github.com/memecalf/data/blob/main/479.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "World Heritage", 
+      "value": "China"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1110",
-  "description": "Memecalf#1110",
-  "image_url": "https://github.com/memecalf/data/blob/main/1110.gif?raw=true"
+  "name": "Memecalf#1110 Azerbaijan",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1110.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

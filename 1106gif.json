@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1106",
-  "description": "Memecalf#1106",
-  "image_url": "https://github.com/memecalf/data/blob/main/1106.gif?raw=true"
+  "name": "Memecalf#1106 Argentina",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1106.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

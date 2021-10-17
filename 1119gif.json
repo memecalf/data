@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1119",
-  "description": "Memecalf#1119",
-  "image_url": "https://github.com/memecalf/data/blob/main/1119.gif?raw=true"
+  "name": "Memecalf#1119 Bhutan",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1119.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

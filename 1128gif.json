@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1128",
-  "description": "Memecalf#1128",
-  "image_url": "https://github.com/memecalf/data/blob/main/1128.gif?raw=true"
+  "name": "Memecalf#1128 Cape Verde",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1128.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

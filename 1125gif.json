@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1125",
-  "description": "Memecalf#1125",
-  "image_url": "https://github.com/memecalf/data/blob/main/1125.gif?raw=true"
+  "name": "Memecalf#1125 Bulgaria",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1125.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

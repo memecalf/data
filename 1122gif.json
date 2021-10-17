@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1122",
-  "description": "Memecalf#1122",
-  "image_url": "https://github.com/memecalf/data/blob/main/1122.gif?raw=true"
+  "name": "Memecalf#1122 Botswana",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1122.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

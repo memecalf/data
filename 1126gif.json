@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1126",
-  "description": "Memecalf#1126",
-  "image_url": "https://github.com/memecalf/data/blob/main/1126.gif?raw=true"
+  "name": "Memecalf#1126 Burkina Faso",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1126.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

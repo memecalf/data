@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1118",
-  "description": "Memecalf#1118",
-  "image_url": "https://github.com/memecalf/data/blob/main/1118.gif?raw=true"
+  "name": "Memecalf#1118 Benin",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1118.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

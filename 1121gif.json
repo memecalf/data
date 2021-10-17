@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1121",
-  "description": "Memecalf#1121",
-  "image_url": "https://github.com/memecalf/data/blob/main/1121.gif?raw=true"
+  "name": "Memecalf#1121 Bosnia and Herzegovina",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1121.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

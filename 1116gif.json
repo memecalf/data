@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1116",
-  "description": "Memecalf#1116",
-  "image_url": "https://github.com/memecalf/data/blob/main/1116.gif?raw=true"
+  "name": "Memecalf#1116 Belgium",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1116.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

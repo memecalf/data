@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1130",
-  "description": "Memecalf#1130",
-  "image_url": "https://github.com/memecalf/data/blob/main/1130.gif?raw=true"
+  "name": "Memecalf#1130 Cameroon",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1130gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

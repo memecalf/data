@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1145",
-  "description": "Memecalf#1145",
-  "image_url": "https://github.com/memecalf/data/blob/main/1145.gif?raw=true"
+  "name": "Memecalf#1145 Democratic Republic of the Congo",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1145.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

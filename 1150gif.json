@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1150",
-  "description": "Memecalf#1150",
-  "image_url": "https://github.com/memecalf/data/blob/main/1150.gif?raw=true"
+  "name": "Memecalf#1150 Ecuador",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1150.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

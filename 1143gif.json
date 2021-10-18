@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1143",
-  "description": "Memecalf#1143",
-  "image_url": "https://github.com/memecalf/data/blob/main/1143.gif?raw=true"
+  "name": "Memecalf#1143 Cyprus",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1143.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

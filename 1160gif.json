@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1160",
-  "description": "Memecalf#1160",
-  "image_url": "https://github.com/memecalf/data/blob/main/1160.gif?raw=true"
+  "name": "Memecalf#1160 France",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1160.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

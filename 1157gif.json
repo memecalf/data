@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1157",
-  "description": "Memecalf#1157",
-  "image_url": "https://github.com/memecalf/data/blob/main/1157.gif?raw=true"
+  "name": "Memecalf#1157 Ethiopia",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1157.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1153",
-  "description": "Memecalf#1153",
-  "image_url": "https://github.com/memecalf/data/blob/main/1153.gif?raw=true"
+  "name": "Memecalf#1153 Equatorial Guinea",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1153.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

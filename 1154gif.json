@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1154",
-  "description": "Memecalf#1154",
-  "image_url": "https://github.com/memecalf/data/blob/main/1154.gif?raw=true"
+  "name": "Memecalf#1154 Eritrea",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1154.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

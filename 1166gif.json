@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1166",
-  "description": "Memecalf#1166",
-  "image_url": "https://github.com/memecalf/data/blob/main/1166.gif?raw=true"
+  "name": "Memecalf#1166 Greece",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1166.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

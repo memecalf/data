@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1169",
-  "description": "Memecalf#1169",
-  "image_url": "https://github.com/memecalf/data/blob/main/1169.gif?raw=true"
+  "name": "Memecalf#1169 Guinea",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1169.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

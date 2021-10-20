@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1161",
-  "description": "Memecalf#1161",
-  "image_url": "https://github.com/memecalf/data/blob/main/1161.gif?raw=true"
+  "name": "Memecalf#1161 Gabon",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1161.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1168",
-  "description": "Memecalf#1168",
-  "image_url": "https://github.com/memecalf/data/blob/main/1168.gif?raw=true"
+  "name": "Memecalf#1168 Guatemala",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1168.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

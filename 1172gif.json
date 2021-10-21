@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1172",
-  "description": "Memecalf#1172",
-  "image_url": "https://github.com/memecalf/data/blob/main/1172.gif?raw=true"
+  "name": "Memecalf#1172 Haiti",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1172.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1173",
-  "description": "Memecalf#1173",
-  "image_url": "https://github.com/memecalf/data/blob/main/1173.gif?raw=true"
+  "name": "Memecalf#1173 Vatican City",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1173.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

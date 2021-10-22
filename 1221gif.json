@@ -1,5 +1,11 @@
 {
   "name": "Memecalf#1221",
   "description": "Memecalf#1221",
-  "image_url": "https://github.com/memecalf/data/blob/main/1221.gif?raw=true"
+  "image_url": "https://github.com/memecalf/data/blob/main/1221.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Art", 
+      "value": "1"
+    }
+  ]
 }

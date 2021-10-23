@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1180",
-  "description": "Memecalf#1180",
-  "image_url": "https://github.com/memecalf/data/blob/main/1180.gif?raw=true"
+  "name": "Memecalf#1180 Iraq",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1180.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

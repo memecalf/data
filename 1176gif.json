@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1176",
-  "description": "Memecalf#1176",
-  "image_url": "https://github.com/memecalf/data/blob/main/1176.gif?raw=true"
+  "name": "Memecalf#1176 Iceland",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1176.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

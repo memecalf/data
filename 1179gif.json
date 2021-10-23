@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1179",
-  "description": "Memecalf#1179",
-  "image_url": "https://github.com/memecalf/data/blob/main/1179.gif?raw=true"
+  "name": "Memecalf#1179 Iran",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1179.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

@@ -1,5 +1,11 @@
 {
-  "name": "Memecalf#1174",
-  "description": "Memecalf#1174",
-  "image_url": "https://github.com/memecalf/data/blob/main/1174.gif?raw=true"
+  "name": "Memecalf#1174 Honduras",
+  "description": "National Flag Series",
+  "image_url": "https://github.com/memecalf/data/blob/main/1174.gif?raw=true",
+  "attributes": [
+    {
+      "trait_type": "NATION", 
+      "value": "National flag"
+    }
+  ]
 }

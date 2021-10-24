@@ -1,11 +1,11 @@
 {
-  "name": "Memecalf#1221",
-  "description": "Memecalf#1221",
+  "name": "Memecalf#1221 Car",
+  "description": "Car",
   "image_url": "https://github.com/memecalf/data/blob/main/1221.gif?raw=true",
   "attributes": [
     {
-      "trait_type": "Art", 
-      "value": "1"
+      "trait_type": "CAR", 
+      "value": "Red"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Memecalf#1222 Donut",
+  "description": "Donut",
+  "image_url": "https://github.com/memecalf/data/blob/main/1222.mp4?raw=true",
+  "attributes": [
+    {
+      "trait_type": "FOOD", 
+      "value": "Donut"
+    }
+  ]
+}
